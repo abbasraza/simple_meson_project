@@ -12,7 +12,7 @@ pip install meson
 
 git clone  git@github.com:abbasraza/simple_meson_project.git
 
-cd simple_meson_project/
+cd simple_meson_project/example1
 
 3: meson setup (to create ninja build file)
 
